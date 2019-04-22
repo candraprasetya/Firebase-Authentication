@@ -1,6 +1,8 @@
 # firebase_candraprasetya
 
-A new Flutter project.
+A new Firebase Authentication Using Flutter.
+
+![alt text](https://www.kardusinfo.com/wp-content/uploads/2019/04/Screenshot-4.png)
 
 ## Getting Started
 
